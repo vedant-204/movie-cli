@@ -1,1 +1,4 @@
-Initialization
+# movie-cli
+
+still `wip`
+
